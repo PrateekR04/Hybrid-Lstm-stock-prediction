@@ -35,10 +35,7 @@ This project is a Streamlit web application for financial time series forecastin
    source venv/bin/activate
    ```
 
-   Or use the provided environment in `Packages/`:
-   ```bash
-   source Packages/bin/activate
-   ```
+
 
 3. **Install dependencies:**
    ```bash
